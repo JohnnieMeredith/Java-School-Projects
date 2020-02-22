@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=SearchMachine
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ SearchMachine\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=SearchMachine()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ SearchMachine\r\n
+comment2.params=
+comment2.target=int\ randomInt()
+comment3.params=size
+comment3.target=RationalCompare[]\ rcArrayFill(int)
+comment4.params=r
+comment4.target=int\ sequentialSearch(RationalCompare[])
+comment5.params=
+comment5.target=int\ binarySearch()
+comment6.params=r
+comment6.target=int\ sortC(RationalCompare[])
+comment7.params=
+comment7.target=void\ main()
+comment7.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=8

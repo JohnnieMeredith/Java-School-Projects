@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=AddingMachine
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ AddingMachine\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=AddingMachine()
+comment2.params=
+comment2.target=void\ setArray()
+comment3.params=size
+comment3.target=int[]\ randomArray(int)
+comment4.params=
+comment4.target=void\ main()
+comment4.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=5
